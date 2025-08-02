@@ -4,8 +4,40 @@
   box-sizing: border-box;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.bg{
+  /* background-color:#e8f1fa; */
+  background-color:#f0fdf4;
+}
+.bgCrd{
+  background-color: #ffffff;
+}
+.txt{
+  /* color: #1e3a8a; */
+    color: #065f46;
+
+}
+.btnn:hover{
+  /* background-color: #0b5ed7; */
+    background-color: #059669;
+
+}
 .icon{
-  color: aliceblue;
+  /* color:#3b82f6; */
+    color: #22c55e;
   font-size: 30px;
   margin-bottom: 10px;
+}
+.bmi-result {
+  /* color: #1e40af; */
+    color: #047857;
+
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.bmi-category {
+  /* color: #1e40af; */
+    color: #047857;
+
+  font-weight: 500;
 }
